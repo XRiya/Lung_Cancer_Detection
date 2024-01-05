@@ -1,1 +1,2 @@
 # Lung_Cancer_Detection
+Lung cancer is a critical health concern worldwide, with a high morbidity and mortality rate. Early detection is crucial for improving patient outcomes, and data science techniques offer promising avenues for developing predictive models. In this project, we aim to leverage data science methodologies to predict the likelihood of lung cancer based on relevant features. The dataset used encompasses information from both male and female individuals, allowing for a comprehensive analysis of gender-specific patterns.
